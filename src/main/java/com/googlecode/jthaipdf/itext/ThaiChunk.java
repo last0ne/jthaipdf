@@ -25,8 +25,8 @@ package com.googlecode.jthaipdf.itext;
 
 import com.googlecode.jthaipdf.util.ThaiDisplayUtils;
 
-import com.lowagie.text.Chunk;
-import com.lowagie.text.Font;
+import com.itextpdf.text.Chunk;
+import com.itextpdf.text.Font;
 
 
 public class ThaiChunk extends Chunk {
