@@ -29,7 +29,7 @@ import java.util.Map;
 import net.sf.jasperreports.engine.export.JRPdfExporter;
 
 import com.googlecode.jthaipdf.itext.ThaiChunk;
-import com.lowagie.text.Chunk;
+import com.itextpdf.text.Chunk;
 
 
 public class ThaiJRPdfExporter extends JRPdfExporter {
